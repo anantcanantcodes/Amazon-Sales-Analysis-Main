@@ -40,6 +40,6 @@ The objective of this project is to transform raw Amazon sales data into meaning
 
 ## Author
 **Anant Chaudhary**
-Civil Engineering, NIT Jamshedpur
+ NIT Jamshedpur
 
-Aspiring Data Analyst | Power BI | SQL | Python
+Aspiring Data Analyst | Business Analyst | Power BI | SQL | Python
